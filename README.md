@@ -3,7 +3,7 @@
 Issuekban látjátok a lehetséges feladatokat. Ha valamelyik tetszik assignoljátok magatokhoz. Megbeszélésekről információ Discordon fog menni. A README-t nyogodtan módosítsátok ha valami eszetekbe jut. Figyeljetek a repository használatára, ha kérdésetek van keressetek bátran (Ákos).
 
 ## **Frontend**
-    A fejlesztéshez összeszedett tudnivalók. A templateket a bootstrap oldaláról kölcsönöztük. A stíluson lehet változtatni, de maradjon konzisztens az egész.
+A fejlesztéshez összeszedett tudnivalók. A templateket a bootstrap oldaláról kölcsönöztük. A stíluson lehet változtatni, de maradjon konzisztens az egész.
 
 ### Főoldal
 - Hivatkozások a többi oldalra
@@ -37,4 +37,4 @@ Issuekban látjátok a lehetséges feladatokat. Ha valamelyik tetszik assignolj�
 - Ötlet szinten, nem biztos, hogy van rá szükség
 
 ## **Backend**
-    Nem beszéltünk róla sokat. A frontend tisztázása után fogunk vele foglalkozni
+Nem beszéltünk róla sokat. A frontend tisztázása után fogunk vele foglalkozni.
