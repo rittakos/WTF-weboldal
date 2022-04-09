@@ -36,7 +36,6 @@
 .u-section-1 .u-layout-wrap-2 {
   margin-top: 60px;
   margin-bottom: 60px;
-  position: relative;
 }
 
 .u-section-1 .u-image-2 {
@@ -80,6 +79,10 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 330px;
+  }
+
+  .u-section-1 .u-layout-wrap-2 {
+    position: relative;
   }
 
   .u-section-1 .u-image-2 {

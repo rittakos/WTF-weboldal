@@ -5,7 +5,6 @@
 .u-section-1 .u-group-1 {
   width: 1040px;
   min-height: 260px;
-  height: auto;
   margin: 60px auto 0;
 }
 
@@ -16,7 +15,7 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 3.75rem;
-  margin: 69px 30px 0;
+  margin: 69px 57px 0 30px;
 }
 
 .u-section-1 .u-text-2 {
@@ -28,6 +27,8 @@
   width: 570px;
   height: 570px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  background-image: url("images/favicon-8.png");
+  background-position: 50% 50%;
   margin: 30px auto 0;
 }
 
@@ -44,7 +45,10 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-group-1 {
     width: 940px;
-    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 30px;
   }
 }
 
